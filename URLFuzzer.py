@@ -37,7 +37,7 @@ def getWords():
     file.close()
     
     print("---Diagnostics---")
-    print("--Dirs Found--")
+    print("--Directories Found--")
     for a in DIRLIST:
         print(a)
     print(DIRNUM)
