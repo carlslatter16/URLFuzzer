@@ -1,7 +1,7 @@
 
 # URLFuzzer
 ## Educational Purposes Only! #
- A poc tool to show my understanding of similar tools such as dirb and gobuster. It could be faster with multithreaded implementation and precise wordlists. I have included a popular wordlist commonly bundled with similar tools. You can configure the target, the port and list you want to use. It will scan recursivly. There is an option for verbosity if you want to see what is going on, along with some diagnostics at the end.
+ A PoC tool to show my understanding of similar tools such as dirb and gobuster. It could be faster with multithreaded implementation and precise wordlists. I have included a popular wordlist commonly bundled with similar tools. You can configure the target, the port and list you want to use. It will scan recursivly. There is an option for verbosity if you want to see what is going on, along with some diagnostics at the end.
 
 
 ## Prerequisites
