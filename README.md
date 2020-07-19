@@ -1,4 +1,4 @@
-# Educational Purposes Only! #
+## Educational Purposes Only! #
 
 # URLFuzzer
  A proof of concept tool to show my understanding of similar tools such as dirb and gobuster. It could be faster with multithreaded implementation and precise wordlists. I have included a popular wordlist commonly bundled with similar tools. You can configure the target, the port and what list you want to use. It will scan recursivly, 
